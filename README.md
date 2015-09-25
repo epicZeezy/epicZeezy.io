@@ -13,7 +13,7 @@ script.js
 
 It is important to keep the structure, style, and functionality seperate because this makes the website modular. This means that if you want to change the color of Facebook from blue to red, then you only need to change one line in the style rather than a ton of lines in the structure since several html files can references the same style sheet.
 
-# Deploy to github pages
+## Deploy to github pages
 -------------------------------------
 1. Create a new repo with the name: yourUserName.github.io
 2. Upload code with an index.html file to the repo
