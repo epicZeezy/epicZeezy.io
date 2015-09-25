@@ -15,8 +15,5 @@ It is important to keep the structure, style, and functionality seperate because
 
 ## Deploy to github pages
 1. Create a new repo with the name: yourUserName.github.io
-2. Upload code with an index.html file to the repo
-3. Go to http://yourUserName.github.io (it may take 30 seconds)
-
-
-
+2. Upload code, with an index.html file, to the repo
+3. Go to http:\/\/yourUserName.github.io (it may take 30 seconds)
