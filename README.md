@@ -1,6 +1,6 @@
 UMBC Hackers Intro to Web Dev
 -------------------------------------
-Live website: https://michaelbishoff.github.io
+Live website: https://umbchackers.github.io/webDevTutorial
 
 index.html
  - The structure and content of the website
