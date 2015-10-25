@@ -1,6 +1,6 @@
 UMBC Hackers Intro to Web Dev
 -------------------------------------
-Live website: https://umbchackers.github.io/webDevTutorial
+Live website: https://umbchackers.github.io/web-dev-tutorial
 
 `index.html` - The structure and content of the website  
 `style.css` - The style of the website (colors, font, spacing, size)  
